@@ -24,7 +24,16 @@ Dovolujeme si Vás upozornit, že pro účely sepsání protokolu z předběžn�
 
 ## Podklady
 
+Dokumenty vymezující funkční a technické požadavky na SpIS naleznete pod následujícími odkazy:
+
+[Funkční specifikace](https://github.com/techlib/spis-konzultace/blob/master/funkcni-specifikace.pdf)
+
+[Technická specifikace](https://github.com/techlib/spis-konzultace/blob/master/technicka-specifikace.pdf)
 
 ## Dotazník
 
 Pro snadnější vyhodnocení konzultace a posouzení obsahu podkladů jsme pro Vás připravili následující dotazník. Jeho vyplněním nám pomůžete získat zpětnou vazbu k předmětu konzultace. Dotazník můžete zpracovat buď elektronicky, nebo přímo na místě.
+
+[Dotazník](https://github.com/techlib/spis-konzultace/blob/master/dotaznik.docx)
+
+[Rozpad aktivit - příloha dotazníku](https://github.com/techlib/spis-konzultace/blob/master/projekt-rozpad-aktivit.ods)
