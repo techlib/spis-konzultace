@@ -8,19 +8,11 @@ Institut plánování a rozvoje Praha (IPR) a Národní technická knihovna (NTK
 
 Rádi bychom s vámi prodiskutovali jednotlivé části plánovaného projektu a jeho zadávací dokumentace včetně funkční a technické specifikace, proto si vás dovolujeme pozvat na předběžnou tržní konzultaci, během které bude záměr veřejné zakázky podrobně rozebrán.
 
-## Termín a místo konání
+## Termín ukončení konzultace
 
 **6.9.2017 od 9:30** v budově NTK (Technická 2710/6, 160 80 Praha 6 - Dejvice). 
 
 Pokud Vám tento termín nevyhovuje, je možné se do konzultace zapojit elektronicky prostřednictvím mailové korespondence. V takovém případě veškeré své připomínky zašlete **do 5.9.2017** na mailovou adresu **adam.skorepa@techlib.cz** (v kopii na adresu **kovarikova@ipr.praha.eu**) s předmětem "Předběžná tržní konzultace - SpIS".
-
-## Registrace účastníků
-
-Svou účast na konzultaci potvrďte nejpozději dva dny předem na mailovou adresu **adam.skorepa@techlib.cz** (v kopii na adresu **kovarikova@ipr.praha.eu**) s předmětem "Účast na předběžné tržní konzultaci - SpIS". Registrační mail by měl obsahovat Vaše kontaktní údaje a kontaktní údaje firmy, kterou budete na konzultaci zastupovat.
-
-## Upozornění
-
-Dovolujeme si Vás upozornit, že pro účely sepsání protokolu z předběžné tržní konzultace bude pořízen záznam. Záznam bude pořízen pouze jako podklad pro korektní zhotovení protokolu konzultace a nebude dále šířen.
 
 ## Podklady
 
@@ -30,12 +22,8 @@ Dokumenty vymezující funkční a technické požadavky na SpIS naleznete pod n
 
 [Technická specifikace](https://github.com/techlib/spis-konzultace/raw/master/technicka-specifikace.pdf)
 
-## Dotazník
+[Schéma uživatelského rozhraní](https://github.com/techlib/spis-konzultace/raw/master/wireframe.pdf)
 
-Pro snadnější vyhodnocení konzultace a posouzení obsahu podkladů jsme pro Vás připravili následující dotazník. Jeho vyplněním nám pomůžete získat zpětnou vazbu k předmětu konzultace. Dotazník můžete zpracovat buď elektronicky, nebo přímo na místě.
+[Technická specifikace funkčního prostředí IPR](https://github.com/techlib/spis-konzultace/raw/master/specifikace-prostredi-IPR.pdf)
 
-Vyplnění dotazníku a jeho přílohy je nepovinné, dotazník má pouze usnadnit reakci na tématické celky konzultace. Dotazník si můžete dle potřeby upravit, případně připomínky k záměru zakázky zpracovat v jinak strukturovaném dokumentu.
-
-[Dotazník](https://github.com/techlib/spis-konzultace/raw/master/dotaznik.docx)
-
-[Rozpad aktivit - příloha dotazníku](https://github.com/techlib/spis-konzultace/raw/master/projekt-rozpad-aktivit.ods)
+[Technická specifikace funkčního prostředí NTK](https://github.com/techlib/spis-konzultace/raw/master/specifikace-prostredi-NTK.pdf)
