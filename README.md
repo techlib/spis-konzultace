@@ -4,15 +4,13 @@
 
 Vážení vývojáři a dodavatelé informačních systémů,
 
-Institut plánování a rozvoje Praha (IPR) a Národní technická knihovna (NTK) hodlají v nejbližší době vyhlásit společné zadávací řízení za účelem pořídit nový informační systém. IPR a NTK proto připravují zadávací dokumentaci k související veřejné zakázce.
+Institut plánování a rozvoje Praha (IPR) a Národní technická knihovna (NTK) hodlají v nejbližší době vyhlásit společné zadávací řízení za účelem pořídit nový informační systém. IPR a NTK proto připravují zadávací dokumentaci k související veřejné zakázce. Vzhledem ke snaze o důkladnou a otevřenou přípravu podkladů pro vypsání veřejné zakázky bychom Vás rádi požádali o Vaši zpětnou vazbu.
 
-Rádi bychom s vámi prodiskutovali jednotlivé části plánovaného projektu a jeho zadávací dokumentace včetně funkční a technické specifikace, proto si vás dovolujeme pozvat na předběžnou tržní konzultaci, během které bude záměr veřejné zakázky podrobně rozebrán.
+K záměru této zakázky již jedno kolo předběžných tržních konzultací proběhlo. První kolo proběhlo 6.9.2017 prezenční formou v budově NTK. Toto druhé kolo probíhá již pouze elektronicky prostřednictvím e-mailové komunikace.
 
-## Termín ukončení konzultace
+## Termín a kontakt
 
-**6.9.2017 od 9:30** v budově NTK (Technická 2710/6, 160 80 Praha 6 - Dejvice). 
-
-Pokud Vám tento termín nevyhovuje, je možné se do konzultace zapojit elektronicky prostřednictvím mailové korespondence. V takovém případě veškeré své připomínky zašlete **do 5.9.2017** na mailovou adresu **adam.skorepa@techlib.cz** (v kopii na adresu **kovarikova@ipr.praha.eu**) s předmětem "Předběžná tržní konzultace - SpIS".
+Poslední termín pro zasílání Vašich připomínek je **5.2.2018**. Své připomínky k níže uvedeným podkladům zasílejte na mailovou adresu **adam.skorepa@techlib.cz** (v kopii na adresu **szkrobisz@ipr.praha.eu**) s předmětem "Předběžná tržní konzultace - SpIS".
 
 ## Podklady
 
