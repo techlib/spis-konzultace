@@ -6,6 +6,8 @@ Vážení vývojáři a dodavatelé informačních systémů,
 
 Institut plánování a rozvoje Praha (IPR) a Národní technická knihovna (NTK) hodlají v nejbližší době vyhlásit společné zadávací řízení za účelem pořídit nový informační systém. IPR a NTK proto připravují zadávací dokumentaci k související veřejné zakázce. Vzhledem ke snaze o důkladnou a otevřenou přípravu podkladů pro vypsání veřejné zakázky bychom Vás rádi požádali o Vaši zpětnou vazbu.
 
+U Vašeho zhodnocení podkladových materiálů k zakázce budeme vděčni za posouzení dostupné dokumentace z hlediska srozumitelnosti a úplnosti a Vaše případná doporučení na její úpravu.
+
 K záměru této zakázky již jedno kolo předběžných tržních konzultací proběhlo. První kolo proběhlo 6.9.2017 prezenční formou v budově NTK. Toto druhé kolo probíhá již pouze elektronicky prostřednictvím e-mailové komunikace.
 
 ## Termín a kontakt
